@@ -1,0 +1,58 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "name": "abc",
+      "mail": "@ggg",
+      "phone": "555555",
+      "skillId": "1",
+      "photo": "https://lfwf.io/uploads/studentProfile/thumb/1634562723.png"
+    },
+    {
+      "id": 2,
+      "name": "Ananda Kuma",
+      "mail": "d@sgh",
+      "phone": "1424",
+      "skillId": "7",
+      "photo": "dytry"
+    },
+    {
+      "id": 3,
+      "name": "abc",
+      "mail": "@ggg",
+      "phone": "555555",
+      "skillId": "4",
+      "photo": "https://lfwf.io/uploads/studentProfile/thumb/1634562723.png"
+    }
+  ],
+  "skill": [
+    {
+      "id": 1,
+      "name": "Laravel Developer"
+    },
+    {
+      "id": 2,
+      "name": "MERN Stack Developer"
+    },
+    {
+      "id": 3,
+      "name": "WordPress Developer"
+    },
+    {
+      "id": 4,
+      "name": "IOS Developer"
+    },
+    {
+      "id": 5,
+      "name": "Django Developer"
+    },
+    {
+      "id": 6,
+      "name": "PHP Developer"
+    },
+    {
+      "id": 7,
+      "name": "Python Developer"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "relasionapi-axios",
+  "version": "1.0.0",
+  "description": "relasionapi prac",
+  "main": "index.js",
+  "scripts": {
+    "ananda"  : "json-server --watch db.json --port 2022"
+  },
+  "author": "ananda",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
