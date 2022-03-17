@@ -4,7 +4,7 @@
   "description": "relasionapi prac",
   "main": "index.js",
   "scripts": {
-    "ananda"  : "json-server --watch db.json --port 2021"
+    "ananda"  : "json-server --watch db.json --port 2022"
   },
   "author": "ananda",
   "license": "ISC",
